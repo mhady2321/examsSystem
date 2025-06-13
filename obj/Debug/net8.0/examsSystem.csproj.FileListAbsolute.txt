@@ -1,0 +1,17 @@
+F:\courses\.net route\examsSystem\bin\Debug\net8.0\examsSystem.exe
+F:\courses\.net route\examsSystem\bin\Debug\net8.0\examsSystem.deps.json
+F:\courses\.net route\examsSystem\bin\Debug\net8.0\examsSystem.runtimeconfig.json
+F:\courses\.net route\examsSystem\bin\Debug\net8.0\examsSystem.dll
+F:\courses\.net route\examsSystem\bin\Debug\net8.0\examsSystem.pdb
+F:\courses\.net route\examsSystem\obj\Debug\net8.0\examsSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\courses\.net route\examsSystem\obj\Debug\net8.0\examsSystem.AssemblyInfoInputs.cache
+F:\courses\.net route\examsSystem\obj\Debug\net8.0\examsSystem.AssemblyInfo.cs
+F:\courses\.net route\examsSystem\obj\Debug\net8.0\examsSystem.csproj.CoreCompileInputs.cache
+F:\courses\.net route\examsSystem\obj\Debug\net8.0\examsSystem.dll
+F:\courses\.net route\examsSystem\obj\Debug\net8.0\refint\examsSystem.dll
+F:\courses\.net route\examsSystem\obj\Debug\net8.0\examsSystem.pdb
+F:\courses\.net route\examsSystem\obj\Debug\net8.0\examsSystem.genruntimeconfig.cache
+F:\courses\.net route\examsSystem\obj\Debug\net8.0\ref\examsSystem.dll
+F:\courses\.net route\examsSystem\obj\Debug\net8.0\examsSystem.csproj.AssemblyReference.cache
+F:\courses\.net route\examsSystem\bin\Debug\net8.0\Google.Protobuf.dll
+F:\courses\.net route\examsSystem\obj\Debug\net8.0\examsSys.6A683172.Up2Date
